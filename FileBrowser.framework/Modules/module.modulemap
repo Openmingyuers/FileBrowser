@@ -1,5 +1,5 @@
 framework module FileBrowser {
-  umbrella header "FileBrowser-umbrella.h"
+  umbrella header "FileBrowser.h"
 
   export *
   module * { export * }
